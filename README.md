@@ -29,6 +29,10 @@ _Visualizacion  réplica de  seccion de  "Symplifica"  con  características de 
 
 ![Prueba](https://github.com/Carolinacm7/Symplifica/blob/main/resources/img/Prueba.png)
 
+### Accesibilidad Desktop
+
 ![Accesibilidad Desktop](https://github.com/Carolinacm7/Symplifica/blob/gh-pages/resources/img/accessibility%20Desktop.jpg)
+
+### Accesibilidad Mobile
 
 ![Accesibilidad Mobile](https://github.com/Carolinacm7/Symplifica/blob/main/resources/img/accessibility%20Mobile.jpg)
